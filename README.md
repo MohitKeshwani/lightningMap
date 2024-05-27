@@ -9,7 +9,7 @@ We need to pass the following details in props
 
 - data: records or mapped data from which we need to get the name, latitude and longitude of the map.
 - latitude: Name of the latitude field
--longitude: Name of the longitude field
+- longitude: Name of the longitude field
 - iconLabel: Icon which we want to show on the map. 
 
 We can pass the following in this format: 
